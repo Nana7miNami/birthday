@@ -19,7 +19,7 @@ var config = {
      */
     imgs: {
         //"心爱的小可爱": "./imgs/xiaokeai.png",
-         “噗噗~”: "./"C:\Users\86137\Downloads\iloveimg-converted\噗噗~-0000.jpg",
+         “噗噗~”: "/Users/86137/Downloads/iloveimg-converted/噗噗~-0000.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
